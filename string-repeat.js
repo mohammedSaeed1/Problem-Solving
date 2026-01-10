@@ -8,6 +8,4 @@ function stringRepeat(n , s){
      }
      return '';
 }
-
-
 stringRepeat(7,"Mohamed");
